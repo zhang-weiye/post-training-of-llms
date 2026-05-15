@@ -9,3 +9,4 @@
 - [Hugging Face: Datasets/TUTORIALS](https://huggingface.co/docs/datasets/tutorial)
 - [Hugging Face: Datasets/HOW-TO GUIDES](https://huggingface.co/docs/datasets/how_to)
 - [Hugging Face: Datasets/TEXT](https://huggingface.co/docs/datasets/nlp_load)
+- [Hugging Face: Tokenizers/GETTING STARTED](https://huggingface.co/docs/tokenizers/index)
