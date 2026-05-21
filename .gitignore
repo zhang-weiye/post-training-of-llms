@@ -6,3 +6,9 @@
 01-code/1.1-pytorch/07-CV/cifar_net.pth
 
 01-code/1.1-pytorch/08-NLP/data/
+
+
+
+
+# env files
+.venv/
